@@ -14,4 +14,4 @@ which python 1>&2  # Write path to Python binary to standard error
 python --version   # Write Python version to standard error
 
 # Run your script with the `srun` command:
-srun python script.py
+srun python demo.py
